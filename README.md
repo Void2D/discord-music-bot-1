@@ -32,6 +32,6 @@ module.exports = {
 - Open Source
 
 # Inportant
-> This project is not fully yet. If you wana support this project you can join discord server [Click here](https://discord.gg/25js8gwYNX)
+> This project is not fully completed yet. If you wana support this project you can join discord server [Click here](https://discord.gg/25js8gwYNX)
 
 
