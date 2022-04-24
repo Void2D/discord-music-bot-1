@@ -1,5 +1,5 @@
-![Github Stars](https://img.shields.io/github/stars/nottmayank/discord-music-bot-1?style=for-the-badge&logo=appveyor)
-![GitHub issues](https://img.shields.io/github/issues-raw/nottmayank/discord-music-bot-1?style=for-the-badge&logo=appveyor)
+![Github Stars](https://img.shields.io/github/stars/nottmayank/discord-player-bot-1?style=for-the-badge&logo=appveyor)
+![GitHub issues](https://img.shields.io/github/issues-raw/nottmayank/discord-player-bot-1?style=for-the-badge&logo=appveyor)
 
 # 🎵 Discord Music Bot 
 An open-source discord music bot that uses discord-player to play music
