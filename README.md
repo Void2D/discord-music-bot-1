@@ -1,22 +1,26 @@
-# Discord Music Bot
-An open-source discord music bot that uses discord-player to play music. 
+# 🎵 Discord Music Bot 
+An open-source discord music bot that uses discord-player to play music
 
-# Getting Started
-> Make sure you have Node v14x installed on your pc. To check node.js version:
-```javascript
+# 🚀 Getting Started
+> Make sure you have Node v12x installed on your PC. To check node.js version:
+
+```
 node -v
 ```
-If you do not have Node installed in your pc; you can install it from [here](https://nodejs.org/en/download/)
+If you do not have Node installed in your PC; you can install it from [here](https://nodejs.org/en/download/)
 
-# Insallation
-```javascript
+# 💨 Insallation
+> Make sure Git is installed on your PC or download ZIP
+```
 git clone https://github.com/redleague/discord-music-bot.git
 cd discord-music-bot
 npm install
 ```
 
-# Configuration
-Open `config.js` file in any text editor.
+# 🧠 Configuration
+* Open `config.js` file in any text editor
+* Add your bot's token
+* Change prefix according to your need
 
 ```javascript
 module.exports = {
@@ -27,11 +31,11 @@ module.exports = {
 }
 ```
 
-# Features
-- Easy to use
-- Open Source
+# 💫 Features
+* ✅ Easy to use
+* ✅ Open Source
+* ✅ No need to setup anything
+* ✅ Multiple guild support
 
-# Inportant
-> This project is not fully completed yet. If you wana support this project you can join discord server [Click here](https://discord.gg/25js8gwYNX)
 
 
